@@ -4,6 +4,10 @@ const config = {
    "./pages/*.jsx",
    "./components/*.js",
     "./components/*.jsx"
+
+  //  "./app/**/*.{js,jsx}",
+  // "./components/**/*.{js,jsx}",
+  // "./pages/**/*.{js,jsx}",
   ],
  
   theme: {

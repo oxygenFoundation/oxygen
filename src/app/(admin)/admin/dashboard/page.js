@@ -1,7 +1,7 @@
 "use client";
 
-import AdminSideNav from "@/app/(admin)/components/AdminSideNav";
-import AdminTopNav from "@/app/(admin)/components/AdminTopNav";
+import AdminSideNav from "@/app/(admin)/admin/components/AdminSideNav";
+import AdminTopNav from "@/app/(admin)/admin/components/AdminTopNav";
 
 import Image from "next/image";
 import Link from "next/link";
@@ -16,9 +16,6 @@ import {
     ChevronRight,
 } from "lucide-react";
 import { TbCurrencyNaira } from "react-icons/tb";
-// import { OrderChart } from "./Analytics/OrderChart";
-// import { RevenueChart } from "./Analytics/RevenueChart";
-// import TopProducts from "./Analytics/TopProducts";
 
 
 
