@@ -16,7 +16,7 @@ export default function Home() {
           Please sign in or sign up to continue.
         </p>
         <a
-          href="/auth"
+          href="/admin/auth"
           className="px-6 py-2 bg-yellow-600 text-white rounded-full shadow hover:bg-yellow-700 transition"
         >
           Go to Auth Page
